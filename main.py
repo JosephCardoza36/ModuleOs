@@ -1,9 +1,9 @@
 import os, sys
 from colorama import init
-from termcolor import colored
+from termcolor import colored  #adds color to command line
 import platform
 
-init()  
+init()  #initalize colorama
 
 
 class MyOps:
