@@ -66,3 +66,4 @@ while foo:
     elif user_choice == "change_path":
         my_comp.change_path()
 
+# this is a new comment for git
